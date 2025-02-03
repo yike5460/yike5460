@@ -7,7 +7,7 @@
 
 ## **🚀 TL;DR (For Hackers Scrolling Fast)**
 15+ years of **cloud infrastructure warfare experience** with battle scars from AWS, Intel, Spirent and my own startup...
-- **AI Whisperer**: Built 100+ production AI deployments (Prompt Engineering/Fine-Tuning/RAG/Agents)  
+- **AI Whisperer**: Built 100+ production AI deployments (PE/RAG/Agents/CompyUI/Stable Diffusion)  
 - **GitHub Gladiator**: 2,226 commits in 2023/2024 (and counting...)  
 - **Patent Factory**: 7 patents filed across 3 continents  
 - **Cloud Shaman**: 8 AWS certs + Serverless MVP awards

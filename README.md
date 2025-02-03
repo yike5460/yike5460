@@ -41,4 +41,4 @@ while True:
 ---
 
 **Current Status:**
-Deploying AI agents by day | Hacking side projects by night | Automating my coffee machine
+Deploying AI agents by day | Hacking side projects by night | Automating my routine workflow

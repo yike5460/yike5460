@@ -6,7 +6,7 @@
 ---
 
 ## **🚀 TL;DR (For Hackers Scrolling Fast)**
-15+ years of **cloud infrastructure warfare experience** with battle scars from AWS, Intel, Spirent, Ericsson and Huawei.
+15+ years of **cloud infrastructure warfare experience** with battle scars from AWS, Intel, Spirent and my own startup...
 - **AI Whisperer**: Built 100+ production AI deployments (Prompt Engineering/Fine-Tuning/RAG/Agents)  
 - **GitHub Gladiator**: 2,226 commits in 2023/2024 (and counting...)  
 - **Patent Factory**: 7 patents filed across 3 continents  

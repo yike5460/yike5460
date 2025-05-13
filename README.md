@@ -10,7 +10,7 @@
 - **AI Whisperer**: Built 100+ production AI deployments (PE/RAG/Agents/CompyUI/Stable Diffusion)  
 - **GitHub Gladiator**: 2,226 commits in 2023/2024 (and counting...)  
 - **Patent Factory**: 7 patents filed across 3 continents  
-- **Cloud Shaman**: 8 AWS certs + Serverless MVP awards
+- **Cloud Shaman**: 9 AWS certs + Serverless MVP awards
 - **Team Hivemind**: Led global squads to build **1.2k+ deployments** (APAC/US/UK time zones mastered)  
 
 ---
@@ -26,6 +26,7 @@ while True:
 ```
 ## **🏆 Notable Projects**
 **Main Arsenal**
+- Vertical Industry Assets based on AWS
 - Intelli-Agent - Data ETL meets Agent Orchestration (Python/Typescript)
 - Stable Diffusion AWS Extension - Brought txt2img chaos to enterprise clouds
 - AWS GenAI CI/CD Suite - Because manual PRs describe and code review are the legacy

@@ -29,14 +29,15 @@ while True:
 - Vertical Industry Assets based on AWS
 - Intelli-Agent - Data ETL meets Agent Orchestration (Python/Typescript)
 - Stable Diffusion AWS Extension - Brought txt2img chaos to enterprise clouds
-- AWS GenAI CI/CD Suite - Because manual PRs describe and code review are the legacy
-- Claud Prompt Generator - Transform your ChatGPT prompts into Claude ones
+- [AWS GenAI CI/CD Suite](https://github.com/aws-samples/aws-genai-cicd-suite) - Because manual PRs describe and code review are the legacy
+- [Claude Prompt Generator](https://github.com/aws-samples/claude-prompt-generator) - Transform your ChatGPT prompts into Claude ones
 
 **Side Quests**
-- Mermaid Visualizer - "Diagram this, ChatGPT!"
-- VideoSearch Online - Embedding-based raw video frame hunting (Because CTRL+F for videos is so 2023)
-- Mock Your API - Mock your API responses with AI
-- Awesome Notes - My research notes on AppMod, Generative AI, and more
+- [Easy Model Deployer](https://github.com/aws-samples/easy-model-deployer) - Hosting model in AWS like a breeze
+- [Mermaid Visualizer](https://mermaid.guru/) - "Diagram this, ChatGPT!"
+- [VideoSearch Online](https://shortvideo.online/) - Embedding-based raw video frame hunting (Because CTRL+F for videos is so 2023)
+- [Mock Your API](https://mockapi.vip/) - Mock your API responses with AI
+- [Awesome Notes](https://github.com/yike5460/awesome-notes) - My research notes on AppMod, Generative AI, and more
 - IOS App - A time management app for my kids and me to learn Swift
 
 ---

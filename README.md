@@ -31,7 +31,7 @@ while True:
 - Stable Diffusion AWS Extension - Brought txt2img chaos to enterprise clouds
 - [AWS GenAI CI/CD Suite](https://github.com/aws-samples/aws-genai-cicd-suite) - Because manual PRs describe and code review are the legacy
 - [Claude Prompt Generator](https://github.com/aws-samples/claude-prompt-generator) - Transform your ChatGPT prompts into Claude ones
-- HeyAgent - Marketplace of Agentic Templates for deterministic agent prototyping
+- [HeyAgent](https://heyagent.pages.dev/) - Marketplace of Agentic Templates for deterministic agent prototyping
 
 **Side Quests**
 - [Easy Model Deployer](https://github.com/aws-samples/easy-model-deployer) - Hosting model in AWS like a breeze

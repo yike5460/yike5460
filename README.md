@@ -1,12 +1,13 @@
 # Ke Yi (Aaron) 🚀  
 **Engineering Manager & Cloud Native Architect** | **Generative AI Evangelist** | **Open-Source Obsessive**  
 
-📍 Beijing, China | 📧 [yike0917@gmail.com](mailto:yike0917@gmail.com) | 🔗 [GitHub](https://github.com/yike5460/) | 💼 [LinkedIn](www.linkedin.com/in/AaronYi/)  
+📍 Beijing, China/Calgary, Canada | 📧 [yike0917@gmail.com](mailto:yike0917@gmail.com) | 🔗 [GitHub](https://github.com/yike5460/) | 💼 [LinkedIn](www.linkedin.com/in/AaronYi/)  
 
 ---
 
 ## **🚀 TL;DR (For Hackers Scrolling Fast)**
-15+ years of **cloud infrastructure warfare experience** with battle scars from AWS, Intel, Spirent and my own startup...
+18+ years of **cloud infrastructure warfare experience** with battle scars from AWS, Intel, Spirent and my own startup...
+- **AI Whisperer**: 2 startup co-founder (SEO, video native)
 - **AI Whisperer**: Built 100+ production AI deployments (PE/RAG/Agents/CompyUI/Stable Diffusion)  
 - **GitHub Gladiator**: 2,226 commits in 2023/2024 (and counting...)  
 - **Patent Factory**: 7 patents filed across 3 continents  
@@ -26,7 +27,7 @@ while True:
 ```
 ## **🏆 Notable Projects**
 **Main Arsenal**
-- Vertical Industry Assets based on AWS
+- 10+ Vertical Industry Assets based on AWS
 - Intelli-Agent - Data ETL meets Agent Orchestration (Python/Typescript)
 - Stable Diffusion AWS Extension - Brought txt2img chaos to enterprise clouds
 - [AWS GenAI CI/CD Suite](https://github.com/aws-samples/aws-genai-cicd-suite) - Because manual PRs describe and code review are the legacy
@@ -35,9 +36,9 @@ while True:
 
 **Side Quests**
 - [Easy Model Deployer](https://github.com/aws-samples/easy-model-deployer) - Hosting model in AWS like a breeze
-- [Mermaid Visualizer](https://mermaid.guru/) - "Diagram this, ChatGPT!"
-- [VideoSearch Online](https://shortvideo.online/) - Embedding-based raw video frame hunting (Because CTRL+F for videos is so 2023)
-- [Mock Your API](https://mockapi.vip/) - Mock your API responses with AI
+- [Mermaid Visualizer](https://mermaid-live-editor-1qg.pages.dev/) - "Diagram this, ChatGPT!"
+- [VideoSearch Online](https://shortvideo-online.pages.dev) - Embedding-based raw video frame hunting (Because CTRL+F for videos is so 2023)
+- [Mock Your API](https://mockup-4k1.pages.dev/) - Mock your API responses with AI
 - [Awesome Notes](https://github.com/yike5460/awesome-notes) - My research notes on AppMod, Generative AI, and more
 - IOS App - A time management app for my kids and me to learn Swift
 

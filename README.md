@@ -7,7 +7,7 @@
 
 ## **🚀 TL;DR (For Hackers Scrolling Fast)**
 18+ years of **cloud infrastructure warfare experience** with battle scars from AWS, Intel, Spirent and my own startup...
-- **AI Whisperer**: 2 startup co-founder (SEO, video native)
+- **Self-hiring**: 2 startup co-founder (SEO, video native)
 - **AI Whisperer**: Built 100+ production AI deployments (PE/RAG/Agents/CompyUI/Stable Diffusion)  
 - **GitHub Gladiator**: 2,226 commits in 2023/2024 (and counting...)  
 - **Patent Factory**: 7 patents filed across 3 continents  

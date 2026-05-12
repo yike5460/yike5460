@@ -5,18 +5,17 @@
 
 ---
 
-## **🚀 TL;DR (For Hackers Scrolling Fast)**
+## **TL;DR (For Hackers Scrolling Fast)**
 18+ years of **cloud infrastructure warfare experience** with battle scars from AWS, Intel, Spirent and my own startup...
 - **Self-hiring**: 2 startup co-founder (SEO, video native)
 - **AI Whisperer**: Built 100+ production AI deployments (PE/RAG/Agents/CompyUI/Stable Diffusion)  
-- **GitHub Gladiator**: 2,226 commits in 2023/2024 (and counting...)  
 - **Patent Factory**: 7 patents filed across 3 continents  
 - **Cloud Shaman**: 9 AWS certs + Serverless MVP awards
 - **Team Hivemind**: Led global squads to build **1.2k+ deployments** (APAC/US/UK time zones mastered)  
 
 ---
 
-## **⚡️ Highlights Reel**  
+## **Highlights Reel**  
 ```python
 while True:
     build(cloud_native_systems())
@@ -25,7 +24,41 @@ while True:
     if new_tech_emerges():
         geek_out()  # See latest obsession ↓
 ```
-## **🏆 Notable Projects**
+
+## **Recent Builds (2026)**
+
+What I've been shipping lately — from autonomous agents to prediction markets.
+
+### Agent Systems
+
+| Project | What It Does |
+|---------|-------------|
+| **PolyTrader** | Fully automated Polymarket trading system — Bayesian inference, multi-persona analysis, multi-source signals, whale tracking, live CLOB execution, adaptive position sizing... |
+| **[Digital Marketing Agent](https://echloe.io)** | Autonomous brand-building agent — closed-loop SEO/GEO pipeline, trending topic discovery, Claude Code article generation, D1 publish |
+| **Skill Hub** | Curated Claude Code skills — market research module with LLM keyword gen, Veo 3 video generation, Brave Search data sourcing |
+
+### Products & Platforms
+
+| Project | What It Does |
+|---------|-------------|
+| **ShotAI** | AI-native video asset management system — multilingual landing (5 locales), Gemini-generated illustrations, SEO-optimized |
+| **ScienceComics** | Interactive science learning comics platform — tutorial system, onboarding demos, Cloudflare Pages + Workers |
+| **[eChloe](https://echloe.com)** | Image compression and transformation for UI/UX designer and frontend developer |
+
+### Content & Data
+
+| Project | What It Does |
+|---------|-------------|
+| **[fp8.co](https://fp8.co)** | Technical AI blog and newsletters — covering agentic development, architecture dive deep, skill exploration |
+| **[aifunding.me](https://aifunding.me)** | AI startup funding tracker — deal collection, investor analysis, sector-level reports |
+
+### Quant & Trading
+
+| Project | What It Does |
+|---------|-------------|
+| **PolyTrader** | Prediction market quant system — multi-source signals (news, on-chain, whale wallets), adaptive position sizing, 24h sell-failure cooldown, chain sync |
+
+## **Legacy Projects**
 **Main Arsenal**
 - 10+ Vertical Industry Assets based on AWS
 - Intelli-Agent - Data ETL meets Agent Orchestration (Python/Typescript)

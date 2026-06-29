@@ -41,7 +41,7 @@ What I've been shipping lately — from autonomous agents to prediction markets.
 
 | Project | What It Does |
 |---------|-------------|
-| **ShotAI** | AI-native video asset management system — multilingual landing (5 locales), Gemini-generated illustrations, SEO-optimized |
+| **ShotAI** | AI-native video asset management system |
 | **ScienceComics** | Interactive science learning comics platform — tutorial system, onboarding demos, Cloudflare Pages + Workers |
 | **[eChloe](https://echloe.com)** | Image compression and transformation for UI/UX designer and frontend developer |
 
